@@ -66,9 +66,9 @@
         "highlightRatio": 0.31
       },
       "location": {
-        "city": "鎌倉市",
-        "province": "神奈川県",
-        "country": "日本"
+        "city": "Kamakura",
+        "province": "Kanagawa Prefecture",
+        "country": "Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -139,9 +139,9 @@
         "highlightRatio": 0.45
       },
       "location": {
-        "city": "鎌倉市",
-        "province": "神奈川県",
-        "country": "日本"
+        "city": "Kamakura",
+        "province": "Kanagawa Prefecture",
+        "country": "Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -566,9 +566,9 @@
         "highlightRatio": 0.49
       },
       "location": {
-        "city": "鎌倉市",
-        "province": "神奈川県",
-        "country": "日本"
+        "city": "Kamakura",
+        "province": "Kanagawa Prefecture",
+        "country": "Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -729,9 +729,9 @@
         "highlightRatio": 0.19
       },
       "location": {
-        "city": "藤沢市",
-        "province": "神奈川県",
-        "country": "日本"
+        "city": "Fujisawa",
+        "province": "Kanagawa Prefecture",
+        "country": "Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -1070,9 +1070,9 @@
         "highlightRatio": 0.33
       },
       "location": {
-        "city": "渋谷区",
+        "city": "Shibuya",
         "province": null,
-        "country": "日本"
+        "country": "Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -1485,7 +1485,7 @@
         "highlightRatio": 0.01
       },
       "location": {
-        "city": "City of New York",
+        "city": "New York",
         "province": "New York",
         "country": "United States"
       },
