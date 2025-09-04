@@ -2,9 +2,9 @@ name: Update Gallery Assets
 
 on:
   workflow_dispatch: # Allow manual trigger
-  schedule:
+  # schedule:
     # Run every 30 minutes
-    - cron: '*/30 * * * *'
+    # - cron: '*/30 * * * *'
 
 jobs:
   update-gallery-assets:
