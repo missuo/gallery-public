@@ -3342,9 +3342,88 @@
       "location": null,
       "isLivePhoto": false,
       "isHDR": false
+    },
+    {
+      "id": "IMG_0104",
+      "title": "IMG 0104",
+      "description": "",
+      "dateTaken": "2023-08-14T22:58:50.000Z",
+      "tags": [],
+      "originalUrl": "https://gallery.owo.nz/gallery/IMG_0104.jpeg",
+      "thumbnailUrl": "/thumbnails/IMG_0104.webp",
+      "thumbHash": "20290a25046d7a664798399995605ba8548f7ac008",
+      "width": 3024,
+      "height": 4032,
+      "aspectRatio": 0.75,
+      "s3Key": "gallery/IMG_0104.jpeg",
+      "lastModified": "2025-09-04T23:11:38.435Z",
+      "size": 2311456,
+      "exif": {
+        "DateTimeOriginal": "2023-08-15T10:58:50+12:00",
+        "OffsetTime": "+12:00",
+        "OffsetTimeOriginal": "+12:00",
+        "OffsetTimeDigitized": "+12:00",
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "tz": "UTC+12",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "Apple",
+        "Model": "iPhone 12 Pro",
+        "Software": 17,
+        "ExposureTime": "1/50",
+        "FNumber": 1.6,
+        "ExposureProgram": "Program AE",
+        "ISO": 100,
+        "ShutterSpeedValue": "1/50",
+        "ApertureValue": 1.6,
+        "BrightnessValue": 2.67565918,
+        "ExposureCompensation": 0,
+        "Flash": "Off, Did not fire",
+        "FocalLength": "4.2 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "26 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "Apple",
+        "LensModel": "iPhone 12 Pro back triple camera 4.2mm f/1.6",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "SensingMethod": "One-chip color area",
+        "Aperture": 1.6,
+        "ScaleFactor35efl": 6.2,
+        "ShutterSpeed": "1/50",
+        "LightValue": 7,
+        "GPSAltitude": 21.96894075,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": -36.846917,
+        "GPSLatitudeRef": "S",
+        "GPSLongitude": 174.764633,
+        "GPSLongitudeRef": "E",
+        "MPImageType": "Undefined"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 48,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.4
+      },
+      "location": {
+        "city": "Waitematā",
+        "province": "Auckland",
+        "country": "New Zealand"
+      },
+      "isLivePhoto": false,
+      "isHDR": false
     }
   ],
   "cameras": [
+    {
+      "make": "Apple",
+      "model": "iPhone 12 Pro",
+      "displayName": "Apple iPhone 12 Pro"
+    },
     {
       "make": "Apple",
       "model": "iPhone 15 Pro Max",
@@ -3357,6 +3436,11 @@
     }
   ],
   "lenses": [
+    {
+      "make": "Apple",
+      "model": "iPhone 12 Pro back triple camera 4.2mm f/1.6",
+      "displayName": "Apple iPhone 12 Pro back triple camera 4.2mm f/1.6"
+    },
     {
       "make": "Apple",
       "model": "iPhone 15 Pro Max back triple camera 15.66mm f/2.8",
