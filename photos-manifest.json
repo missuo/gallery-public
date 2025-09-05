@@ -181,7 +181,8 @@
       "location": {
         "city": "Bangkok",
         "province": null,
-        "country": "Thailand"
+        "country": "Thailand",
+        "displayName": "Charoen Krung Road, Odeon, Samphanthawong Subdistrict, Samphanthawong District, Bangkok, 10100, Thailand"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -255,7 +256,8 @@
       "location": {
         "city": "Islands District",
         "province": "Hong Kong",
-        "country": "China"
+        "country": "China",
+        "displayName": "Sound & Vision enriching life, South Runway Road, Chek Lap Kok, Tung Chung, Islands District, New Territories, Hong Kong, China"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -860,7 +862,8 @@
       "location": {
         "city": "Sai Kung District",
         "province": "Hong Kong",
-        "country": "China"
+        "country": "China",
+        "displayName": "Leung Shuen Wan Pier, Sai Kung Man Yee Road, High Island, Sai Kung District, New Territories, Hong Kong, China"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -932,7 +935,8 @@
       "location": {
         "city": "Kamakura",
         "province": "Kanagawa Prefecture",
-        "country": "Japan"
+        "country": "Japan",
+        "displayName": "Shichirigahama, National Highway Route 134, Koshigoe 1-chome, Kamakura, Kanagawa Prefecture, 248-0026, Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -1005,7 +1009,8 @@
       "location": {
         "city": "Kamakura",
         "province": "Kanagawa Prefecture",
-        "country": "Japan"
+        "country": "Japan",
+        "displayName": "National Highway Route 134, Koshigoe 1-chome, Kamakura, Kanagawa Prefecture, 248-0026, Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -1432,7 +1437,8 @@
       "location": {
         "city": "Kamakura",
         "province": "Kanagawa Prefecture",
-        "country": "Japan"
+        "country": "Japan",
+        "displayName": "Shichirigahama, National Highway Route 134, Koshigoe 1-chome, Kamakura, Kanagawa Prefecture, 248-0026, Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -1595,7 +1601,8 @@
       "location": {
         "city": "Fujisawa",
         "province": "Kanagawa Prefecture",
-        "country": "Japan"
+        "country": "Japan",
+        "displayName": "湘南港臨港道路, Katasekaigan 1-chome, Katasekaigan, Fujisawa, Kanagawa Prefecture, 251-0035, Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -1936,7 +1943,8 @@
       "location": {
         "city": "Shibuya",
         "province": null,
-        "country": "Japan"
+        "country": "Japan",
+        "displayName": "Shibuya, B3F, Shibuya 2, Shibuya, Tokyo, 150-6101, Japan"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -2277,7 +2285,8 @@
       "location": {
         "city": "Honolulu",
         "province": "Hawaii",
-        "country": "United States"
+        "country": "United States",
+        "displayName": "282, Hobron Lane, McCully, Honolulu, Honolulu County, Hawaii, 96815, United States"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -2351,7 +2360,8 @@
       "location": {
         "city": "New York",
         "province": "New York",
-        "country": "United States"
+        "country": "United States",
+        "displayName": "WQHT-FM (New York), West 33rd Street, Koreatown, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -2689,7 +2699,8 @@
       "location": {
         "city": "West Mifflin",
         "province": "Pennsylvania",
-        "country": "United States"
+        "country": "United States",
+        "displayName": "Century Drive, Mifflin Junction, West Mifflin, Allegheny County, Pennsylvania, 15123, United States"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -3653,7 +3664,8 @@
       "location": {
         "city": "Irvine",
         "province": "California",
-        "country": "United States"
+        "country": "United States",
+        "displayName": "Von Karman Avenue, Irvine Business Complex, Irvine, Orange County, California, 92614, United States"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -3727,7 +3739,8 @@
       "location": {
         "city": "Faʻaʻā",
         "province": "French Polynesia",
-        "country": "France"
+        "country": "France",
+        "displayName": "Aérogare international de Tahiti-Faa'a, Aratia Aeroport, Juventin, Faʻaʻā, Windward Islands, French Polynesia, 98704, France"
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -4424,7 +4437,8 @@
       "location": {
         "city": "Waitematā",
         "province": "Auckland",
-        "country": "New Zealand"
+        "country": "New Zealand",
+        "displayName": "Mozzarella & Co., Wyndham Street, Britomart, City Centre, Waitematā, Auckland, 1010, New Zealand"
       },
       "isLivePhoto": false,
       "isHDR": false
