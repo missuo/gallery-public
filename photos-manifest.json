@@ -2,6 +2,38 @@
   "version": "v6",
   "data": [
     {
+      "id": "IMG_0001",
+      "title": "IMG 0001",
+      "description": "",
+      "dateTaken": "2025-09-24T14:31:58.080Z",
+      "tags": [],
+      "originalUrl": "https://gallery.owo.nz/gallery/IMG_0001.png",
+      "thumbnailUrl": "/thumbnails/IMG_0001.webp",
+      "thumbHash": "9a180a15025f888479588687768887773452303204",
+      "width": 4284,
+      "height": 5712,
+      "aspectRatio": 0.75,
+      "s3Key": "gallery/IMG_0001.png",
+      "lastModified": "2025-09-24T14:29:49.004Z",
+      "size": 29473335,
+      "exif": {
+        "ImageWidth": 4284,
+        "ImageHeight": 5712
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 38,
+        "shadowRatio": 0.46,
+        "highlightRatio": 0.11
+      },
+      "location": null,
+      "isLivePhoto": true,
+      "livePhotoVideoUrl": "https://gallery.owo.nz/gallery/IMG_0001.mov",
+      "livePhotoVideoS3Key": "gallery/IMG_0001.mov",
+      "isHDR": false
+    },
+    {
       "id": "DSCF4924",
       "title": "DSCF4924",
       "description": "",
